@@ -20,7 +20,7 @@ def promotion_image():
                             <head>
                                 <meta charset="utf-8">
                                 <meta name="viewport" content="width=device-width, initial-scale=1">
-                                <title>Привет, Марс!</title>
+                                <title>Колонизация</title>
                             </head>
                             <body>
                                 <link rel="stylesheet" type="text/css" href="{
